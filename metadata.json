@@ -1,0 +1,6 @@
+{
+  "name": "Factor Master",
+  "description": "An interactive mental math training game to master factorization, multiplication tables, perfect squares, and famous mathematical numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
